@@ -27,3 +27,7 @@ img {
 h2 {
   color: #e5a751;
 }
+
+.bold {
+  font-weight: bold;
+}

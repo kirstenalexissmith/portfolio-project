@@ -1,5 +1,7 @@
 body {
-  background-image: url(../img/ripples.png)
+  background-image: url(../img/ripples.png);
+  color: #e2c6a2;
+  font-family: 'Courier New', Courier, monospace;
 }
 
 h1 {
@@ -20,4 +22,8 @@ img {
 .float-left {
   width: 70%;
   float: right;
+}
+
+h2 {
+  color: #e5a751;
 }

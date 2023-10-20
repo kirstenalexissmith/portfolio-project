@@ -1,0 +1,17 @@
+body {
+  background-image: url(../img/ripples.png)
+}
+
+h1 {
+  color: #a9b387;
+}
+
+img {
+  width: 20%;
+  height: 20%;
+  ;
+}
+
+.center {
+  text-align: center;
+}

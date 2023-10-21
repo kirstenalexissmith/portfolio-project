@@ -32,3 +32,10 @@ h2 {
   color: #b38f52;
   font: italic bold 12pt/14pt;
 }
+
+.border {
+  margin: 12px;
+  border: 7px solid #e3b651;
+  padding: 4px;
+  width: 200px;
+}

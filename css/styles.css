@@ -28,6 +28,7 @@ h2 {
   color: #e5a751;
 }
 
-.bold {
-  font-weight: bold;
+.intro {
+  color: #b38f52;
+  font: italic bold 12pt/14pt;
 }

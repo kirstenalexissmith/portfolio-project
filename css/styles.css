@@ -1,11 +1,12 @@
 body {
   background-image: url(../img/ripples.png);
-  color: #e2c6a2;
+  color: #8c1817;
   font-family: 'Courier New', Courier, monospace;
 }
 
 h1 {
   color: #a9b387;
+  font-size: 35px;
 }
 
 img {
@@ -26,6 +27,7 @@ img {
 
 h2 {
   color: #e5a751;
+  font-style: italic;
 }
 
 .intro {
@@ -38,4 +40,18 @@ h2 {
   border: 7px solid #e3b651;
   padding: 4px;
   width: 200px;
+}
+
+p {
+  font-size: 20px;
+}
+
+li {
+  color: #ebc334;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+a {
+  color: #c985ab;
 }

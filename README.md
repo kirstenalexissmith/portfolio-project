@@ -24,7 +24,7 @@ _{This webpage is a page all about myself. It includes sections about me, my bac
 
 ## Known Bugs
 
-* _No known bugs_
+* _gh-pages will not update with main branch of repository_
 
 
 ## License

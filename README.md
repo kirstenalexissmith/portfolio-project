@@ -16,15 +16,12 @@ _{This webpage is a page all about myself. It includes sections about me, my bac
 
 ## Setup/Installation Requirements
 
-* _Navigate to GitHub_
-* _Click on 'portfolio-project'_
-* _Navigate to deployments and click 'github-pages'_
-* _Click 'All Environments'_
-* _Select the link to open in browser_
+* _Simply copy and paste the provided link to Github Pages in your preferred browser to view and interact with my potrfolio website_
+* _GitHub pages: https://kirstenalexissmith.github.io/portfolio-project/_
 
 ## Known Bugs
 
-* _gh-pages will not update with main branch of repository_
+* No known bugs
 
 
 ## License

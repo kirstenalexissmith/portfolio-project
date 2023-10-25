@@ -27,3 +27,4 @@ _{This webpage is a page all about myself. It includes sections about me, my bac
 ## License
 
 Copyright (c) _2023_ _Kirsten Smith_
+Refer to LICENSE.txt for more information
